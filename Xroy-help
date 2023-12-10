@@ -1,0 +1,3 @@
+git remote add origin https://github.com/Xroy2468/Xroy_Tech-help.git
+  git branch -M main
+  git push -u origin main
